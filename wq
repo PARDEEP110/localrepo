@@ -1,0 +1,12 @@
+[1mdiff --git a/localrepo/index.html b/localrepo/index.html[m
+[1mindex fa6e351..2d22fc2 100644[m
+[1m--- a/localrepo/index.html[m
+[1m+++ b/localrepo/index.html[m
+[36m@@ -10,6 +10,7 @@[m
+ <body>[m
+     <h1>[m
+         <p>hi</p>[m
+[32m+[m[32m        <h2>my name is pardeep.</h2>[m
+     </h1>[m
+ </body>[m
+ [m
